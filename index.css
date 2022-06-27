@@ -157,7 +157,6 @@ a {
     margin: 0%;
   }
   .cover {
-    border: 1px solid;
     padding: 5%;
     gap: 1em;
   }
@@ -169,7 +168,6 @@ a {
     display: flex;
     flex-direction: column;
     height: auto;
-    border: 1px solid;
   }
   #inner2 {
     display: flex;
